@@ -116,8 +116,10 @@ You will need anaconda to install all deep learning packages
 
 ## Step 6: Install PyTorch 
 
+ - Open Anaconda Prompt
+ - Create a New Environment
  - [Install PyTorch](https://pytorch.org/get-started/locally/)
-
+ - Create a '.ipynb' or '.py' file and check if CUDA is available.
 
 ![image](https://github.com/user-attachments/assets/034c009b-ecbc-4644-931b-8a1ff689f94e)
 
