@@ -133,7 +133,14 @@ You will need anaconda to install all deep learning packages
 ![image](https://github.com/user-attachments/assets/034c009b-ecbc-4644-931b-8a1ff689f94e)
 
 
-
+## Installation of Git on System
+ - [Download Git](https://git-scm.com/downloads/win)
+ - Select for Windows, I usually choose "64-bit Git for Windows Setup"
+ - Now Run the File and follow the following Tutorial https://www.youtube.com/watch?v=UqJHDB9z7f4
+ - Start the Tutorial at 4:40
+ - Once Done, Re-Open the Anaconda Prompt and Check Git Version
+``git --version``
+  - Now we can Clone, Github Repositories.
 
 
 ## Finally run the following script to test your GPU
