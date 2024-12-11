@@ -9,6 +9,15 @@ conda create --name myenv python=3.8
 conda env list
 conda activate myenv
 ```
+
+3. Duplicate a Base-Level Anaconda Environment
+```
+conda create --name new_env_name --clone old_env_name
+conda env list
+conda activate new_env_name
+```
+
+
 ## Install Required Libraries
 ### Install Pytorch (Basic - Non GPU)
 ``conda install pytorch torchvision torchaudio -c pytorch``
